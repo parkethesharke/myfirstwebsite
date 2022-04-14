@@ -1,0 +1,38 @@
+.indexoverwrite {
+    background-color: rgb(234, 212, 255); 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;"
+  }
+  .indexoverwrite2 {
+    font-family:Georgia, 'Times New Roman', Times, serif"
+  }
+  .indexoverwrite3 {
+    font-size:large
+  }
+  .aboutmeoverwrite {
+    background-color:rgb(217, 238, 246); 
+    font-family: cursive;"
+  }
+  .aboutmeoverwrite2 {
+    font-size: large;
+    font-style:inherit;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+  .aboutmebg {
+    background-color: blue;}
+    
+  .resumebg {
+    background-color: pink;
+  }
+  .indexbg {
+    background-color:
+  }
+  body {
+    background-color: rgb(254, 199, 217);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    right: 114px;
+  }
